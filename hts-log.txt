@@ -1,0 +1,226 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 06 Dec 2024 14:36:17 at https://ecura.ie/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ecura.ie/ -O1 "D:\ecura\ecura" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:58:35	Warning: 	file not stored in cache due to bogus state (broken size, expected 89152258 got 17758980): ecura.ie/wp-content/uploads/2022/12/‘Hani-folk-tune-Chen-Xialing.mp4
+15:58:48	Warning: 	file not stored in cache due to bogus state (broken size, expected 78077368 got 17209020): ecura.ie/wp-content/uploads/2022/12/Hani-women-singing-love-song-Qidieshangzhai.mov
+15:58:52	Warning: 	file not stored in cache due to bogus state (broken size, expected 31550220 got 17202748): ecura.ie/wp-content/uploads/2022/12/local-people-singing-in-the-terraced-fields.mov
+15:59:34	Warning: 	file not stored in cache due to bogus state (broken size, expected 53079401 got 31411560): ecura.ie/wp-content/uploads/2022/12/ecura.mp4
+16:31:23	Warning: 	file not stored in cache due to bogus state (broken size, expected 220126051 got 11954948): ecura.ie/wp-content/uploads/2022/12/Ex.-18-‘Ba-gua-4.mp4
+16:31:28	Warning: 	file not stored in cache due to bogus state (broken size, expected 27110597 got 12146144): ecura.ie/wp-content/uploads/2022/12/Hani-song-Offer-Sacrifices-to-the-Ancestor-of-tree.mp4
+16:31:29	Warning: 	file not stored in cache due to bogus state (broken size, expected 98648127 got 11847828): ecura.ie/wp-content/uploads/2022/12/Ex.-17-‘Naxi-Marriage-Song.mov
+16:31:30	Warning: 	file not stored in cache due to bogus state (broken size, expected 39229612 got 12246120): ecura.ie/wp-content/uploads/2022/12/Hani-musician-singing-marriage-song-Jinhe-county.mp4
+18:22:49	Warning: 	file not stored in cache due to bogus state (broken size, expected 137179103 got 42119280): ecura.ie/wp-content/uploads/2022/12/Yang-Feng-revised.mp4
+18:22:51	Warning: 	file not stored in cache due to bogus state (broken size, expected 43540465 got 42275816): ecura.ie/wp-content/uploads/2022/12/Naxi-hulusheng-player.mp4
+18:23:03	Warning: 	file not stored in cache due to bogus state (broken size, expected 75191785 got 42387880): ecura.ie/wp-content/uploads/2022/12/Naxi_musician_He_Yueyuan_AdobeExpress.mp4
+18:23:42	Warning: 	file not stored in cache due to bogus state (broken size, expected 15025375 got 7164960): ecura.ie/wp-content/uploads/2022/12/Yi_musicians_from_Chegu_performing_drum_dance_AdobeExpress.mp4
+00:07:05	Warning: 	file not stored in cache due to bogus state (broken size, expected 69923876 got 43003628): ecura.ie/wp-content/uploads/2022/12/Mayou-village-Meige-singing.mp4
+00:07:05	Warning: 	file not stored in cache due to bogus state (broken size, expected 200636929 got 31811760): ecura.ie/wp-content/uploads/2022/12/Mayou-Hulusheng-performance.mov
+00:07:05	Warning: 	file not stored in cache due to bogus state (broken size, expected 24091126 got 11962484): ecura.ie/wp-content/uploads/2024/01/罗文辉-梅葛-情歌-1.mp4
+10:22:33	Warning: 	file not stored in cache due to bogus state (broken size, expected 120501305 got 116946532): ecura.ie/wp-content/uploads/2024/04/起凤村2024年春节迎接本土神.mp4
+20:53:35	Warning: 	file not stored in cache due to bogus state (broken size, expected 2507816 got 2301772): ecura.ie/wp-content/uploads/2024/09/90.肉.wav?_=90
+20:54:31	Warning: 	file not stored in cache due to bogus state (broken size, expected 2741036 got 2299696): ecura.ie/wp-content/uploads/2024/09/91.红.wav?_=91
+20:54:45	Warning: 	file not stored in cache due to bogus state (broken size, expected 2507816 got 2480132): ecura.ie/wp-content/uploads/2024/09/90.肉.wav
+20:59:49	Warning: 	file not stored in cache due to bogus state (broken size, expected 3133332 got 2310092): ecura.ie/wp-content/uploads/2024/09/92a.土.wav?_=92
+21:00:59	Warning: 	file not stored in cache due to bogus state (broken size, expected 3324846 got 2305268): ecura.ie/wp-content/uploads/2024/09/93a.成.wav?_=93
+21:01:03	Warning: 	file not stored in cache due to bogus state (broken size, expected 3133332 got 2414784): ecura.ie/wp-content/uploads/2024/09/92a.土.wav
+21:02:47	Warning: 	file not stored in cache due to bogus state (broken size, expected 3324846 got 2501300): ecura.ie/wp-content/uploads/2024/09/93a.成.wav
+00:07:03	Warning: 	file not stored in cache due to bogus state (broken size, expected 7056092 got 5601636): ecura.ie/wp-content/uploads/2024/09/137、九.wav?_=136
+00:07:14	Warning: 	file not stored in cache due to bogus state (broken size, expected 7056092 got 5671244): ecura.ie/wp-content/uploads/2024/09/137、九.wav
+18:57:12	Warning: 	file not stored in cache due to bogus state (broken size, expected 6348452 got 4961192): ecura.ie/wp-content/uploads/2024/09/276、铁.wav
+18:57:20	Warning: 	file not stored in cache due to bogus state (broken size, expected 6348452 got 5013952): ecura.ie/wp-content/uploads/2024/09/276、铁.wav?_=272
+00:07:18	Warning: 	file not stored in cache due to bogus state (broken size, expected 6936588 got 6370612): ecura.ie/wp-content/uploads/2024/10/316、膀.wav
+00:07:18	Warning: 	file not stored in cache due to bogus state (broken size, expected 6936588 got 6377184): ecura.ie/wp-content/uploads/2024/10/316、膀.wav?_=312
+10:03:36	Warning: 	file not stored in cache due to bogus state (broken size, expected 5583612 got 5043192): ecura.ie/wp-content/uploads/2024/10/406、亮.wav?_=398
+10:04:01	Warning: 	file not stored in cache due to bogus state (broken size, expected 5583612 got 4239444): ecura.ie/wp-content/uploads/2024/10/406、亮.wav
+10:17:28	Warning: 	Retry after error -4 (Incorrect length (31411560 Bytes, 53079401 expected)) at link ecura.ie/wp-content/uploads/2022/12/ecura.mp4 (from https://ecura.ie/)
+10:21:06	Warning: 	Moved Permanently for https://ecura.ie/?page_id=3655
+10:21:06	Warning: 	File has moved from https://ecura.ie/?page_id=3655 to https://ecura.ie/3655-2/
+10:27:14	Warning: 	Moved Permanently for https://ecura.ie/?p=638
+10:27:14	Warning: 	File has moved from https://ecura.ie/?p=638 to https://ecura.ie/musical-landscapes-in-yunnan/
+10:27:39	Warning: 	Moved Permanently for https://ecura.ie/?p=3207
+10:27:39	Warning: 	File has moved from https://ecura.ie/?p=3207 to https://ecura.ie/hani-musical-landscape/
+10:27:39	Warning: 	Retry after error -4 (Incorrect length (17758980 Bytes, 89152258 expected)) at link ecura.ie/wp-content/uploads/2022/12/‘Hani-folk-tune-Chen-Xialing.mp4 (from https://ecura.ie/hani-musical-landscape/)
+10:29:41	Warning: 	Retry after error -4 (Incorrect length (17209020 Bytes, 78077368 expected)) at link ecura.ie/wp-content/uploads/2022/12/Hani-women-singing-love-song-Qidieshangzhai.mov (from https://ecura.ie/hani-musical-landscape/)
+11:13:14	Warning: 	Retry after error -4 (Incorrect length (17202748 Bytes, 31550220 expected)) at link ecura.ie/wp-content/uploads/2022/12/local-people-singing-in-the-terraced-fields.mov (from https://ecura.ie/hani-musical-landscape/)
+11:52:28	Warning: 	Retry after error -4 (Incorrect length (12246120 Bytes, 39229612 expected)) at link ecura.ie/wp-content/uploads/2022/12/Hani-musician-singing-marriage-song-Jinhe-county.mp4 (from https://ecura.ie/hani-musical-landscape/)
+11:58:28	Warning: 	Retry after error -4 (Incorrect length (12146144 Bytes, 27110597 expected)) at link ecura.ie/wp-content/uploads/2022/12/Hani-song-Offer-Sacrifices-to-the-Ancestor-of-tree.mp4 (from https://ecura.ie/hani-musical-landscape/)
+12:39:14	Warning: 	Moved Permanently for https://ecura.ie/?p=3215
+12:39:14	Warning: 	File has moved from https://ecura.ie/?p=3215 to https://ecura.ie/naxi-musical-landscape/
+12:39:15	Warning: 	Retry after error -4 (Incorrect length (11954948 Bytes, 220126051 expected)) at link ecura.ie/wp-content/uploads/2022/12/Ex.-18-‘Ba-gua-4.mp4 (from https://ecura.ie/naxi-musical-landscape/)
+12:44:41	Warning: 	file not stored in cache due to bogus state (broken size, expected 89152258 got 68154344): ecura.ie/wp-content/uploads/2022/12/‘Hani-folk-tune-Chen-Xialing.mp4
+12:44:41	Warning: 	Retry after error -4 (Incorrect length (11847828 Bytes, 98648127 expected)) at link ecura.ie/wp-content/uploads/2022/12/Ex.-17-‘Naxi-Marriage-Song.mov (from https://ecura.ie/naxi-musical-landscape/)
+12:45:11	Warning: 	file not stored in cache due to bogus state (broken size, expected 78077368 got 67031980): ecura.ie/wp-content/uploads/2022/12/Hani-women-singing-love-song-Qidieshangzhai.mov
+12:45:11	Warning: 	Retry after error -4 (Incorrect length (42387880 Bytes, 75191785 expected)) at link ecura.ie/wp-content/uploads/2022/12/Naxi_musician_He_Yueyuan_AdobeExpress.mp4 (from https://ecura.ie/naxi-musical-landscape/)
+12:45:13	Warning: 	file not stored in cache due to bogus state (broken size, expected 39229612 got 31602764): ecura.ie/wp-content/uploads/2022/12/Hani-musician-singing-marriage-song-Jinhe-county.mp4
+12:45:13	Warning: 	Retry after error -4 (Incorrect length (42275816 Bytes, 43540465 expected)) at link ecura.ie/wp-content/uploads/2022/12/Naxi-hulusheng-player.mp4 (from https://ecura.ie/naxi-musical-landscape/)
+12:48:44	Warning: 	Moved Permanently for https://ecura.ie/?p=4031
+12:48:44	Warning: 	File has moved from https://ecura.ie/?p=4031 to https://ecura.ie/yi-musical-landscape/
+12:48:44	Warning: 	Retry after error -4 (Incorrect length (42119280 Bytes, 137179103 expected)) at link ecura.ie/wp-content/uploads/2022/12/Yang-Feng-revised.mp4 (from https://ecura.ie/yi-musical-landscape/)
+12:56:14	Warning: 	file not stored in cache due to bogus state (broken size, expected 75191785 got 46352620): ecura.ie/wp-content/uploads/2022/12/Naxi_musician_He_Yueyuan_AdobeExpress.mp4
+12:56:14	Warning: 	Retry after error -4 (Incorrect length (7164960 Bytes, 15025375 expected)) at link ecura.ie/wp-content/uploads/2022/12/Yi_musicians_from_Chegu_performing_drum_dance_AdobeExpress.mp4 (from https://ecura.ie/yi-musical-landscape/)
+12:56:25	Warning: 	file not stored in cache due to bogus state (broken size, expected 220126051 got 18147656): ecura.ie/wp-content/uploads/2022/12/Ex.-18-‘Ba-gua-4.mp4
+12:56:25	Warning: 	Moved Permanently for https://ecura.ie/?p=3220
+12:56:25	Warning: 	File has moved from https://ecura.ie/?p=3220 to https://ecura.ie/pumi-musical-landscape/
+12:56:26	Warning: 	Moved Permanently for https://ecura.ie/?p=3223
+12:56:26	Warning: 	File has moved from https://ecura.ie/?p=3223 to https://ecura.ie/lisu-musical-landscape/
+12:56:26	Warning: 	Moved Permanently for https://ecura.ie/?p=4016
+12:56:26	Warning: 	File has moved from https://ecura.ie/?p=4016 to https://ecura.ie/miao-musical-landscape/
+12:56:26	Warning: 	Moved Permanently for https://ecura.ie/?p=3121
+12:56:26	Warning: 	File has moved from https://ecura.ie/?p=3121 to https://ecura.ie/community-engagement-output/
+12:56:26	Warning: 	Moved Permanently for https://ecura.ie/?p=48
+12:56:26	Warning: 	File has moved from https://ecura.ie/?p=48 to https://ecura.ie/yi-2/
+12:56:26	Warning: 	Retry after error -4 (Incorrect length (77118893 Bytes, 113357354 expected)) at link https://ecura.ie/wp-content/uploads/2024/10/一起来跳脚_202410250758.mp4 (from https://ecura.ie/yi-2/)
+12:56:26	Warning: 	file not stored in cache due to bogus state (broken size, expected 98648127 got 16076148): ecura.ie/wp-content/uploads/2022/12/Ex.-17-‘Naxi-Marriage-Song.mov
+12:56:26	Warning: 	Retry after error -4 (Incorrect length (43003628 Bytes, 69923876 expected)) at link ecura.ie/wp-content/uploads/2022/12/Mayou-village-Meige-singing.mp4 (from https://ecura.ie/yi-2/)
+12:56:30	Warning: 	file not stored in cache due to bogus state (broken size, expected 137179103 got 44906880): ecura.ie/wp-content/uploads/2022/12/Yang-Feng-revised.mp4
+12:56:30	Warning: 	Retry after error -4 (Incorrect length (31811760 Bytes, 200636929 expected)) at link ecura.ie/wp-content/uploads/2022/12/Mayou-Hulusheng-performance.mov (from https://ecura.ie/yi-2/)
+13:17:07	Warning: 	Retry after error -4 (Incorrect length (11962484 Bytes, 24091126 expected)) at link ecura.ie/wp-content/uploads/2024/01/罗文辉-梅葛-情歌-1.mp4 (from https://ecura.ie/yi-2/)
+13:49:22	Warning: 	Moved Permanently for https://ecura.ie/?p=45
+13:49:22	Warning: 	File has moved from https://ecura.ie/?p=45 to https://ecura.ie/bai/
+13:49:22	Warning: 	Moved Permanently for https://ecura.ie/?p=2838
+13:49:22	Warning: 	File has moved from https://ecura.ie/?p=2838 to https://ecura.ie/xiaoshuijing-village/
+13:51:48	Warning: 	file not stored in cache due to bogus state (broken size, expected 200636929 got 52960260): ecura.ie/wp-content/uploads/2022/12/Mayou-Hulusheng-performance.mov
+13:51:48	Warning: 	file not stored in cache due to bogus state (broken size, expected 69923876 got 64166184): ecura.ie/wp-content/uploads/2022/12/Mayou-village-Meige-singing.mp4
+15:13:38	Warning: 	Moved Permanently for https://ecura.ie/?p=3906
+15:13:38	Warning: 	File has moved from https://ecura.ie/?p=3906 to https://ecura.ie/collaborative-projects/
+15:13:38	Warning: 	Moved Permanently for https://ecura.ie/?p=3109
+15:13:38	Warning: 	File has moved from https://ecura.ie/?p=3109 to https://ecura.ie/yi-community-engagement-output/
+15:13:38	Warning: 	Moved Permanently for https://ecura.ie/?p=3113
+15:13:38	Warning: 	File has moved from https://ecura.ie/?p=3113 to https://ecura.ie/bai-community-engagement-output/
+15:13:38	Warning: 	Retry after error -4 (Incorrect length (140328960 Bytes, 143870877 expected)) at link https://ecura.ie/wp-content/uploads/2024/03/6_raw.mp4 (from https://ecura.ie/bai-community-engagement-output/)
+15:13:38	Warning: 	Retry after error -4 (Incorrect length (116946532 Bytes, 120501305 expected)) at link ecura.ie/wp-content/uploads/2024/04/起凤村2024年春节迎接本土神.mp4 (from https://ecura.ie/bai-community-engagement-output/)
+15:23:04	Warning: 	Retry after error -4 (Incorrect length (30474240 Bytes, 76754614 expected)) at link https://ecura.ie/wp-content/uploads/2024/03/群体轮流对唱-1.mp4 (from https://ecura.ie/bai-community-engagement-output/)
+15:23:21	Warning: 	Moved Permanently for https://ecura.ie/?p=3118
+15:23:21	Warning: 	File has moved from https://ecura.ie/?p=3118 to https://ecura.ie/miao-community-engagement-output/
+15:23:21	Warning: 	Moved Permanently for https://ecura.ie/?p=3625
+15:23:21	Warning: 	File has moved from https://ecura.ie/?p=3625 to https://ecura.ie/database-of-ethnic-minority-languages/
+15:23:21	Warning: 	Moved Permanently for https://ecura.ie/?p=3968
+15:23:21	Warning: 	File has moved from https://ecura.ie/?p=3968 to https://ecura.ie/literatures-and-references/
+15:25:11	Error: 	"Forbidden" (403) at link https://ecura.ie/three-pathways-of-effort-in-developing-yi-script-information-processing/?preview_id=3766&preview_nonce=1f88969d84&preview=true (from https://ecura.ie/literatures-and-references/)
+15:58:04	Warning: 	file not stored in cache due to bogus state (broken size, expected 70321177 got 48025180): ecura.ie/wp-content/uploads/2023/04/Sing-by-Relatives-1-1.mov
+15:58:05	Warning: 	file not stored in cache due to bogus state (broken size, expected 181903700 got 48007572): ecura.ie/wp-content/uploads/2023/04/The-Witness-Song.mov
+15:58:07	Warning: 	Moved Permanently for https://ecura.ie/?p=3945
+15:58:07	Warning: 	File has moved from https://ecura.ie/?p=3945 to https://ecura.ie/digital-application-and-online-data/
+15:58:07	Warning: 	Moved Permanently for https://ecura.ie/?p=4054
+15:58:07	Warning: 	File has moved from https://ecura.ie/?p=4054 to https://ecura.ie/meige-based-yi-corpus/
+15:58:07	Warning: 	Retry after error -4 (Incorrect length (2301772 Bytes, 2507816 expected)) at link ecura.ie/wp-content/uploads/2024/09/90.肉.wav?_=90 (from https://ecura.ie/meige-based-yi-corpus/)
+15:58:31	Warning: 	Retry after error -4 (Incorrect length (2480132 Bytes, 2507816 expected)) at link ecura.ie/wp-content/uploads/2024/09/90.肉.wav (from https://ecura.ie/meige-based-yi-corpus/)
+15:58:35	Warning: 	Retry after error -4 (Incorrect length (2299696 Bytes, 2741036 expected)) at link ecura.ie/wp-content/uploads/2024/09/91.红.wav?_=91 (from https://ecura.ie/meige-based-yi-corpus/)
+15:58:36	Warning: 	Retry after error -4 (Incorrect length (2310092 Bytes, 3133332 expected)) at link ecura.ie/wp-content/uploads/2024/09/92a.土.wav?_=92 (from https://ecura.ie/meige-based-yi-corpus/)
+15:59:44	Warning: 	Retry after error -4 (Incorrect length (2414784 Bytes, 3133332 expected)) at link ecura.ie/wp-content/uploads/2024/09/92a.土.wav (from https://ecura.ie/meige-based-yi-corpus/)
+15:59:59	Warning: 	Retry after error -4 (Incorrect length (2305268 Bytes, 3324846 expected)) at link ecura.ie/wp-content/uploads/2024/09/93a.成.wav?_=93 (from https://ecura.ie/meige-based-yi-corpus/)
+16:00:25	Warning: 	Retry after error -4 (Incorrect length (2501300 Bytes, 3324846 expected)) at link ecura.ie/wp-content/uploads/2024/09/93a.成.wav (from https://ecura.ie/meige-based-yi-corpus/)
+16:00:43	Warning: 	Retry after error -4 (Incorrect length (5601636 Bytes, 7056092 expected)) at link ecura.ie/wp-content/uploads/2024/09/137、九.wav?_=136 (from https://ecura.ie/meige-based-yi-corpus/)
+16:01:40	Warning: 	Retry after error -4 (Incorrect length (5671244 Bytes, 7056092 expected)) at link ecura.ie/wp-content/uploads/2024/09/137、九.wav (from https://ecura.ie/meige-based-yi-corpus/)
+16:02:41	Warning: 	Retry after error -4 (Incorrect length (5013952 Bytes, 6348452 expected)) at link ecura.ie/wp-content/uploads/2024/09/276、铁.wav?_=272 (from https://ecura.ie/meige-based-yi-corpus/)
+16:02:46	Warning: 	Retry after error -4 (Incorrect length (4961192 Bytes, 6348452 expected)) at link ecura.ie/wp-content/uploads/2024/09/276、铁.wav (from https://ecura.ie/meige-based-yi-corpus/)
+16:04:43	Warning: 	Retry after error -4 (Incorrect length (6377184 Bytes, 6936588 expected)) at link ecura.ie/wp-content/uploads/2024/10/316、膀.wav?_=312 (from https://ecura.ie/meige-based-yi-corpus/)
+16:05:28	Warning: 	Retry after error -4 (Incorrect length (6370612 Bytes, 6936588 expected)) at link ecura.ie/wp-content/uploads/2024/10/316、膀.wav (from https://ecura.ie/meige-based-yi-corpus/)
+16:06:16	Warning: 	Retry after error -2 (Receive Time Out) at link ecura.ie/wp-content/uploads/2024/10/340、肺.wav?_=332 (from https://ecura.ie/meige-based-yi-corpus/)
+16:06:20	Warning: 	Retry after error -4 (Incorrect length (2383880 Bytes, 5615212 expected)) at link ecura.ie/wp-content/uploads/2024/10/340、肺.wav (from https://ecura.ie/meige-based-yi-corpus/)
+16:06:33	Warning: 	Retry after error -2 (Receive Time Out) at link ecura.ie/wp-content/uploads/2024/10/341、铜.wav?_=333 (from https://ecura.ie/meige-based-yi-corpus/)
+16:07:01	Warning: 	Retry after error -2 (Receive Time Out) at link ecura.ie/wp-content/uploads/2024/10/341、铜.wav (from https://ecura.ie/meige-based-yi-corpus/)
+16:15:05	Error: 	"Not Found" (404) at link ecura.ie/wp-content/uploads/2024/10/382、喂.wav?_=374 (from https://ecura.ie/meige-based-yi-corpus/)
+16:15:05	Error: 	"Not Found" (404) at link ecura.ie/wp-content/uploads/2024/10/382、喂.wav (from https://ecura.ie/meige-based-yi-corpus/)
+16:15:05	Warning: 	Retry after error -4 (Incorrect length (5043192 Bytes, 5583612 expected)) at link ecura.ie/wp-content/uploads/2024/10/406、亮.wav?_=398 (from https://ecura.ie/meige-based-yi-corpus/)
+16:15:11	Warning: 	Retry after error -4 (Incorrect length (4239444 Bytes, 5583612 expected)) at link ecura.ie/wp-content/uploads/2024/10/406、亮.wav (from https://ecura.ie/meige-based-yi-corpus/)
+16:16:35	Warning: 	Moved Permanently for https://ecura.ie/?p=4765
+16:16:35	Warning: 	File has moved from https://ecura.ie/?p=4765 to https://ecura.ie/bai-multilingual-parallel-corpus/
+16:16:35	Warning: 	Moved Permanently for https://ecura.ie/?p=3627
+16:16:35	Warning: 	File has moved from https://ecura.ie/?p=3627 to https://ecura.ie/intellectual-property-and-copyright-2/
+16:16:35	Warning: 	Moved Permanently for ecura.ie/?p=652
+16:16:35	Warning: 	File has moved from ecura.ie/?p=652 to http://ecura.ie/description-of-the-action/
+16:16:35	Warning: 	Moved Permanently for https://ecura.ie/?p=2704
+16:16:35	Warning: 	File has moved from https://ecura.ie/?p=2704 to https://ecura.ie/meige-performances-on-chinas-tv-programs/
+16:23:51	Warning: 	Moved Permanently for https://ecura.ie/?p=3261
+16:23:51	Warning: 	File has moved from https://ecura.ie/?p=3261 to https://ecura.ie/bai-cultural-revival-activities/
+16:24:42	Warning: 	Moved Permanently for https://ecura.ie/?p=2769
+16:24:42	Warning: 	File has moved from https://ecura.ie/?p=2769 to https://ecura.ie/xiaohai-new-village/
+16:24:42	Warning: 	Moved Permanently for ecura.ie/?p=1737
+16:24:42	Warning: 	File has moved from ecura.ie/?p=1737 to http://ecura.ie/dr-jin-dai/
+16:24:42	Warning: 	Moved Permanently for ecura.ie/?p=1766
+16:24:42	Warning: 	File has moved from ecura.ie/?p=1766 to http://ecura.ie/keyi-liu/
+16:24:42	Warning: 	Moved Permanently for https://ecura.ie/?p=275
+16:24:42	Warning: 	File has moved from https://ecura.ie/?p=275 to https://ecura.ie/xiaoyao-liu/
+16:24:42	Warning: 	Moved Permanently for https://ecura.ie/?p=2550
+16:24:42	Warning: 	File has moved from https://ecura.ie/?p=2550 to https://ecura.ie/yalun-yang/
+16:24:42	Error: 	"Forbidden" (403) at link https://ecura.ie/xmlrpc.php (from https://ecura.ie/2024/08/29/collaborative-communities/)
+16:24:42	Warning: 	Moved Permanently for https://ecura.ie/?p=3909
+16:24:42	Warning: 	File has moved from https://ecura.ie/?p=3909 to https://ecura.ie/2024/08/29/collaborative-communities/
+16:24:47	Warning: 	Moved Permanently for https://ecura.ie/?p=507
+16:24:47	Warning: 	File has moved from https://ecura.ie/?p=507 to https://ecura.ie/ecura-research-project-part-2/
+16:24:51	Warning: 	Moved Permanently for https://ecura.ie/?p=1
+16:24:51	Warning: 	File has moved from https://ecura.ie/?p=1 to https://ecura.ie/2022/11/11/ecura1/
+16:24:51	Warning: 	Moved Permanently for https://ecura.ie/?p=4337
+16:24:51	Warning: 	File has moved from https://ecura.ie/?p=4337 to https://ecura.ie/other-musical-landscape/
+16:24:51	Warning: 	Retry after error -4 (Incorrect length (68154344 Bytes, 89152258 expected)) at link ecura.ie/wp-content/uploads/2022/12/‘Hani-folk-tune-Chen-Xialing.mp4 (from https://ecura.ie/hani-musical-landscape/)
+16:24:51	Warning: 	Retry after error -4 (Incorrect length (67031980 Bytes, 78077368 expected)) at link ecura.ie/wp-content/uploads/2022/12/Hani-women-singing-love-song-Qidieshangzhai.mov (from https://ecura.ie/hani-musical-landscape/)
+16:52:20	Warning: 	Retry after error -4 (Incorrect length (31602764 Bytes, 39229612 expected)) at link ecura.ie/wp-content/uploads/2022/12/Hani-musician-singing-marriage-song-Jinhe-county.mp4 (from https://ecura.ie/hani-musical-landscape/)
+17:11:35	Warning: 	Retry after error -4 (Incorrect length (18147656 Bytes, 220126051 expected)) at link ecura.ie/wp-content/uploads/2022/12/Ex.-18-‘Ba-gua-4.mp4 (from https://ecura.ie/naxi-musical-landscape/)
+17:17:25	Warning: 	Retry after error -4 (Incorrect length (16076148 Bytes, 98648127 expected)) at link ecura.ie/wp-content/uploads/2022/12/Ex.-17-‘Naxi-Marriage-Song.mov (from https://ecura.ie/naxi-musical-landscape/)
+17:38:35	Warning: 	Retry after error -4 (Incorrect length (46352620 Bytes, 75191785 expected)) at link ecura.ie/wp-content/uploads/2022/12/Naxi_musician_He_Yueyuan_AdobeExpress.mp4 (from https://ecura.ie/naxi-musical-landscape/)
+18:54:29	Warning: 	Retry after error -4 (Incorrect length (44906880 Bytes, 137179103 expected)) at link ecura.ie/wp-content/uploads/2022/12/Yang-Feng-revised.mp4 (from https://ecura.ie/yi-musical-landscape/)
+20:40:12	Warning: 	Retry after error -4 (Incorrect length (97435053 Bytes, 113357354 expected)) at link https://ecura.ie/wp-content/uploads/2024/10/一起来跳脚_202410250758.mp4 (from https://ecura.ie/yi-2/)
+20:53:52	Warning: 	Retry after error -4 (Incorrect length (64166184 Bytes, 69923876 expected)) at link ecura.ie/wp-content/uploads/2022/12/Mayou-village-Meige-singing.mp4 (from https://ecura.ie/yi-2/)
+21:09:03	Warning: 	Retry after error -4 (Incorrect length (52960260 Bytes, 200636929 expected)) at link ecura.ie/wp-content/uploads/2022/12/Mayou-Hulusheng-performance.mov (from https://ecura.ie/yi-2/)
+21:22:54	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ecura.ie/wp-json/wp/v2/pages/4571 (from https://ecura.ie/xiaoshuijing-village-2/)
+21:23:11	Warning: 	Retry after error -4 (Connect Error) at link https://ecura.ie/?p=4571 (from https://ecura.ie/xiaoshuijing-village-2/)
+21:23:23	Warning: 	Retry after error -4 (Connect Error) at link https://ecura.ie/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fecura.ie%2Fxiaoshuijing-village-2%2F (from https://ecura.ie/xiaoshuijing-village-2/)
+21:23:25	Warning: 	Retry after error -4 (Connect Error) at link https://ecura.ie/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fecura.ie%2Fxiaoshuijing-village-2%2F&format=xml (from https://ecura.ie/xiaoshuijing-village-2/)
+21:23:26	Warning: 	Retry after error -4 (Connect Error) at link https://ecura.ie/wp-content/uploads/2024/10/image-2-606x1024.png (from https://ecura.ie/xiaoshuijing-village-2/)
+21:25:56	Warning: 	Retry after error -4 (Connect Error) at link https://ecura.ie/wp-content/uploads/2024/10/image-3.png (from https://ecura.ie/xiaoshuijing-village-2/)
+21:31:19	Warning: 	Retry after error -4 (Connect Error) at link https://ecura.ie/wp-content/uploads/2024/10/image-4-768x1024.png (from https://ecura.ie/xiaoshuijing-village-2/)
+21:33:32	Warning: 	Retry after error -4 (Connect Error) at link https://ecura.ie/wp-content/uploads/2024/10/image-5.png (from https://ecura.ie/xiaoshuijing-village-2/)
+21:37:14	Warning: 	Retry after error -4 (Connect Error) at link https://ecura.ie/wp-content/uploads/2024/10/小水井合唱团——亨德尔-大灾、诞降.mp4 (from https://ecura.ie/xiaoshuijing-village-2/)
+22:57:17	Warning: 	Moved Permanently for https://ecura.ie/?page_id=3288
+22:57:17	Warning: 	File has moved from https://ecura.ie/?page_id=3288 to https://ecura.ie/letters-pronunciation-and-tones-of-the-pollard-script/
+22:57:17	Warning: 	Moved Permanently for https://ecura.ie/?page_id=3421
+22:57:17	Warning: 	File has moved from https://ecura.ie/?page_id=3421 to https://ecura.ie/miao-musical-notation-2/
+22:57:30	Error: 	"Cancelled by User" (-1) at link ecura.ie/wp-content/uploads/2023/04/Picking-up-the-bride-1.mp4 (from https://ecura.ie/xiaoshuijing-village-2/)
+22:57:30	Warning: 	Retry after error -4 (Incorrect length (48025180 Bytes, 70321177 expected)) at link ecura.ie/wp-content/uploads/2023/04/Sing-by-Relatives-1-1.mov (from https://ecura.ie/xiaoshuijing-village-2/)
+23:10:17	Warning: 	Retry after error -4 (Incorrect length (48007572 Bytes, 181903700 expected)) at link ecura.ie/wp-content/uploads/2023/04/The-Witness-Song.mov (from https://ecura.ie/xiaoshuijing-village-2/)
+23:57:33	Warning: 	Retry after error -4 (Incorrect length (44122112 Bytes, 76754614 expected)) at link https://ecura.ie/wp-content/uploads/2024/03/群体轮流对唱-1.mp4 (from https://ecura.ie/bai-community-engagement-output/)
+00:07:16	Warning: 	file not stored in cache due to bogus state (broken size, expected 220126051 got 176080620): ecura.ie/wp-content/uploads/2022/12/Ex.-18-‘Ba-gua-4.mp4
+00:07:17	Warning: 	Moved Permanently for https://ecura.ie/?p=3735
+00:07:17	Warning: 	File has moved from https://ecura.ie/?p=3735 to https://ecura.ie/yi-language-dialect-areas-and-the-standardization-of-yi-script/
+00:07:17	Warning: 	Moved Permanently for https://ecura.ie/?p=3288
+00:07:17	Warning: 	File has moved from https://ecura.ie/?p=3288 to https://ecura.ie/letters-pronunciation-and-tones-of-the-pollard-script/
+00:07:17	Warning: 	Moved Permanently for https://ecura.ie/?p=3318
+00:07:17	Warning: 	File has moved from https://ecura.ie/?p=3318 to https://ecura.ie/miao-musical-notation/
+00:07:17	Warning: 	Moved Permanently for https://ecura.ie/?p=3424
+00:07:17	Warning: 	File has moved from https://ecura.ie/?p=3424 to https://ecura.ie/miao-musical-notation-part-2/
+00:07:17	Warning: 	Moved Permanently for https://ecura.ie/?p=3475
+00:07:17	Warning: 	File has moved from https://ecura.ie/?p=3475 to https://ecura.ie/miao-musical-notation-related-terminology/
+00:07:17	Warning: 	Moved Permanently for https://ecura.ie/?p=3527
+00:07:17	Warning: 	File has moved from https://ecura.ie/?p=3527 to https://ecura.ie/summary-of-miao-musical-notation/
+00:07:17	Warning: 	Moved Permanently for https://ecura.ie/?p=3805
+00:07:17	Warning: 	File has moved from https://ecura.ie/?p=3805 to https://ecura.ie/audiovisual-self-representation-via-wechat-a-report-on-minority-music-in-yunnan-province-china/
+00:07:17	Warning: 	Moved Permanently for https://ecura.ie/?p=2573
+00:07:17	Warning: 	File has moved from https://ecura.ie/?p=2573 to https://ecura.ie/child-meige-performance-in-cctvs-china-in-intangible-cultural-heritage-annual-gala/
+00:07:17	Warning: 	Moved Permanently for https://ecura.ie/?p=2586
+00:07:17	Warning: 	File has moved from https://ecura.ie/?p=2586 to https://ecura.ie/2586-2/
+00:07:17	Warning: 	Moved Permanently for https://ecura.ie/?p=2720
+00:07:17	Warning: 	File has moved from https://ecura.ie/?p=2720 to https://ecura.ie/2720-2/
+00:07:17	Warning: 	Moved Permanently for https://ecura.ie/?p=3655
+00:07:17	Warning: 	File has moved from https://ecura.ie/?p=3655 to https://ecura.ie/3655-2/
+00:07:17	Error: 	"Forbidden" (403) at link https://ecura.ie/wp-json/wp/v2/users/1 (from https://ecura.ie/author/ecura/)
+00:07:17	Warning: 	Moved Permanently for https://ecura.ie/?p=502
+00:07:17	Warning: 	File has moved from https://ecura.ie/?p=502 to https://ecura.ie/ecura-research-project-part-1/
+00:07:17	Error: 	"Incorrect length (176080620 Bytes, 220126051 expected)" (-4) after 2 retries at link ecura.ie/wp-content/uploads/2022/12/Ex.-18-‘Ba-gua-4.mp4 (from https://ecura.ie/naxi-musical-landscape/)
+00:07:31	Warning: 	file not stored in cache due to bogus state (broken size, expected 200636929 got 120359164): ecura.ie/wp-content/uploads/2022/12/Mayou-Hulusheng-performance.mov
+00:07:31	Error: 	"Incorrect length (120359164 Bytes, 200636929 expected)" (-4) after 2 retries at link ecura.ie/wp-content/uploads/2022/12/Mayou-Hulusheng-performance.mov (from https://ecura.ie/yi-2/)
+00:07:31	Warning: 	Moved Permanently for https://ecura.ie/?p=4571
+00:07:31	Warning: 	File has moved from https://ecura.ie/?p=4571 to https://ecura.ie/xiaoshuijing-village-2/
+00:07:33	Warning: 	file not stored in cache due to bogus state (broken size, expected 181903700 got 69283632): ecura.ie/wp-content/uploads/2023/04/The-Witness-Song.mov
+00:07:45	Warning: 	Retry after error -4 (Incorrect length (69283632 Bytes, 181903700 expected)) at link ecura.ie/wp-content/uploads/2023/04/The-Witness-Song.mov (from https://ecura.ie/xiaoshuijing-village-2/)
+00:07:45	Error: 	"Incorrect length (47824896 Bytes, 76754614 expected)" (-4) after 2 retries at link https://ecura.ie/wp-content/uploads/2024/03/群体轮流对唱-1.mp4 (from https://ecura.ie/bai-community-engagement-output/)
+00:07:45	Warning: 	Moved Permanently for https://ecura.ie/?p=3421
+00:07:45	Warning: 	File has moved from https://ecura.ie/?p=3421 to https://ecura.ie/miao-musical-notation-2/
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 days, 10 hours 47 minutes 53 seconds : 1542 links scanned, 1420 files written (8740813582 bytes overall) [9112520447 bytes received at 30571 bytes/sec], 5991925 bytes transferred using HTTP compression in 135 files, ratio 28%, 1.2 requests per connection
+(9 errors, 206 warnings, 0 messages)
